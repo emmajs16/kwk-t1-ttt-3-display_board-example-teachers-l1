@@ -2,6 +2,6 @@
 def display_board
   row = ["   ","|","   ","|","   "]
   line = "-----------"
-  puts row, line, row, line, row
+  print row, line, row, line, row
   end
 display_board
