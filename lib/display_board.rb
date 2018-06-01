@@ -2,7 +2,7 @@
 def display_board
   row = ["   ","|","   ","|","   "]
   line = "-----------"
-  print row
+  puts row
   print line
   end
 display_board
