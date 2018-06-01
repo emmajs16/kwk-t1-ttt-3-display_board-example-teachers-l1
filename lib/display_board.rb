@@ -6,4 +6,3 @@ def display_board
   print line
   end
 display_board
-["emmma","stoverink"]
