@@ -6,4 +6,4 @@ def display_board
   print line
   end
 display_board
-puts ["emmma","stoverink"]
+["emmma","stoverink"]
